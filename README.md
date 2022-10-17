@@ -1,7 +1,7 @@
 ### Hi there 👋
-I’m currently working on PHF (Plastic Hedgehog Factory)
-I’m currently learning GIT
-I'm tired
+I’m currently working on PHF (Plastic Hedgehog Factory). 
+I’m currently learning GIT. 
+I'm tired.
 <!--
 **Yulloza/Yulloza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
